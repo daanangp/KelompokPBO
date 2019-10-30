@@ -1,6 +1,5 @@
 # laundrymanager
-Aplikasi Laundry Manager Java Netbeans (Tubes PBO Semester 2)
+Aplikasi Laundry Manager Java Netbeans
 
 
 # Screenshot : 
-![Screenshot](work-laundry.png)
